@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyGoogleApp.Veiws.NewPage1"
+            xmlns:p="clr-namespace:MyGoogleApp.Veiws"
+            >
+    
+
+    <p:NewPage2 Title="Discover" />
+    <p:Search Title="Search" />
+    <p:Saved Title="Saved" />
+
+</TabbedPage>
